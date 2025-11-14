@@ -1,11 +1,5 @@
 {
-    "/api/animalitos/all": {
-    "target": "http://localhost:3000",
-    "secure": false,
-    "changeOrigin": false
-    },
-    
-    "/api/animalitos": {
+    "/api/animals": {
     "target": "http://localhost:3000",
     "secure": false,
     "changeOrigin": false
